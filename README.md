@@ -2,6 +2,11 @@
 
 > **SIH 2026 Hackathon Prototype** | An experimental AI-driven predictive screening, satellite analysis, and incident-support system for the **North East Region (NER) of India**.
 
+
+DEPLOY LINK 
+----------------------------https://ner-landslide-intelligence-fx6ct8zhv-khushi-5200.vercel.app---------------------
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js) ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?style=for-the-badge&logo=fastapi) ![ML](https://img.shields.io/badge/Model-XGBoost%20%2B%20UNet-FF6F00?style=for-the-badge) ![Live Data](https://img.shields.io/badge/Data-IMD%20%26%20GSI-00b4d6?style=for-the-badge)
 
 ---
